@@ -1,0 +1,12 @@
+{
+  "API_KEY": "<YOUR_API_KEY>",
+  "filters": {
+    "client": "",
+    "cpu": "",
+    "mem": "",
+    "group": "37",
+    "page": "1",
+    "per_page": "200000",
+    "switch": ""
+  }
+}
